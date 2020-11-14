@@ -1,0 +1,54 @@
+.alignCenter{
+    text-align: center;
+}
+
+h1{
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+.redBox{
+    background: red;
+    border: 2px solid black;
+}
+
+.purpleBox{
+    background:purple;
+    border: 5px dashed pink;
+}
+
+.blueBox{
+    background: blue;
+    border: 2px dotted yellow;
+}
+
+.orangeBox{
+    background: orange;
+    border: 15px solid maroon;
+}
+
+.greenBox{
+    background: lime;
+    border: 2px solid purple;
+}
+
+.bigBoxes div{
+    height: 200px;
+    width: 200px;
+    margin: 0 10px;
+}
+
+.blueTxt{
+    color: blue;
+    text-decoration: underline;
+}
+
+.changeButtons span, .hideButtons span{
+    background: gray;
+    text-align: center;
+    margin: 0 5px;
+    padding: 5px;
+}
+
+
+
